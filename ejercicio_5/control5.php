@@ -8,4 +8,4 @@ for($i=1;$i<=$num;$i++){
 echo "La suma del 1 al $num es: $suma";
 ?>
 <br>
-<a href="formulario2.html">Atras</a>
+<a href="formulario5.html">Atras</a>
